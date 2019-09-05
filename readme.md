@@ -1,0 +1,2 @@
+# Settings Manager
++ This is an appliaction to manage settings so no values are stored in code.  It uses sqlite as the storage, and provides a dotnet client to be used by programs to get settings values.  The settings values are maintained by an angular/aspnet core application called 'SettingsManagerWebApp'.
